@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    font-family: 'poppins';
+}
+
+
+
+.films{
+    display: flex;
+    justify-content: space-around;
+}
+
+.films h1{
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+
+.films img{
+    width: 310px;
+    height: 420px;
+}
